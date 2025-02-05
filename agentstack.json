@@ -1,0 +1,11 @@
+{
+    "framework": "crewai",
+    "tools": [
+        "firecrawl",
+        "neon"
+    ],
+    "default_model": "openai/gpt-4o-mini",
+    "agentstack_version": "0.3.1",
+    "template": "web_scraper",
+    "template_version": "4"
+}
